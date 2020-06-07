@@ -8,7 +8,7 @@ public class OnayTest {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         Onay onay = new Onay();
-        int balance = 79;
+        int balance = 1000;
         int proezd80 = 80;
         int proezd40 = 40;
         do {
